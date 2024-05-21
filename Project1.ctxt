@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Project1
+comment0.text=\r\n\ Project1\ Class\ prints\ a\ receipt\ entailing\ prices\ &\ destination\r\n\ \r\n\ Author\:\ Collins\ Ramsey\r\n\ 9/1/2022\ 11\:12\ am\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=mail
+comment2.target=void\ printReceipt(Mail)
+comment2.text=\ finish\ this\ method\!\ <-----------\r\n\ \r\n\ printReceipt\ -\ this\ method\ prints\ the\ formatted\ receipt\r\n\ \r\n\ @param\ Mail\ mail\ -\ the\ Mail\ object\ with\ values\ set\ in\ the\ main\r\n\ @return\ nothing\r\n
+comment3.params=kbrd
+comment3.target=java.lang.String\ chooseDestination(java.util.Scanner)
+comment3.text=\ do\ not\ change\ this\ method\!\r\n\ \r\n\ chooseDestination\ -\ this\ method\ checks\ for\ a\ valid\ destination\r\n\ \r\n\ @param\ Scanner\ kbrd\ -\ stream\ to\ read\ from\ keyboard\r\n\ @return\ String\ -\ the\ destination\ of\ the\ cargo\ with\ the\ correct\ format\r\n
+comment4.params=type\ dest
+comment4.target=double\ calculatePostage(java.lang.String,\ java.lang.String)
+comment4.text=\ do\ not\ change\ this\ method\!\r\n\ \r\n\ calculatePostage\ -\ this\ method\ calculates\ postage\ given\ the\ type\ and\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ detination\ of\ the\ cargo\r\n\ \r\n\ @param\ String\ type\ -\ the\ type\ of\ cargo\r\n\ @param\ String\ dest\ -\ the\ destination\r\n\ @return\ double\ -\ the\ price\ of\ cargo\ (without\ tax)\r\n
+numComments=5
